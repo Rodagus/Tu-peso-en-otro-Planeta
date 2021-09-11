@@ -1,0 +1,28 @@
+body {
+    background-image: url(./images/espacio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.boton {
+    padding: 5px 10px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1, p {
+    text-align: center;
+    color: #fff;
+}
+.pesoPlaneta {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+}
+.botoncito {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
